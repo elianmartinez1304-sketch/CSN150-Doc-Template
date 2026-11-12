@@ -28,4 +28,4 @@ followed each steps on video 1 and video 2 all went fine.
 **Problems 0
 
 ## Final Report
-The ESP3 camara blinked as expected after following the videos instructions.
+The ESP32 camara blinked as expected after following the videos instructions.
